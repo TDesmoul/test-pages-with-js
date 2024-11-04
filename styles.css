@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.flex {
+  height: 75vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
